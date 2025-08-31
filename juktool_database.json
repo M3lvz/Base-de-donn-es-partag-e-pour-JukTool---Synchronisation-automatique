@@ -1,42 +1,7 @@
 {
   "version": "1.0",
-  "export_date": "2025-08-31T21:51:43.918279",
-  "tools": [
-    {
-      "name": "Perplexity",
-      "link": "https://www.perplexity.ai/",
-      "description": "Perplexity est un moteur de recherche alimenté par l'intelligence artificielle, conçu pour fournir des résultats de recherche intelligents et sans publicité. Il se distingue par sa capacité à comprendre les requêtes des utilisateurs de manière contextuelle, offrant des réponses précises et pertinentes. Grâce à des algorithmes avancés de traitement du langage naturel, Perplexity permet aux utilisateurs d'explorer des informations de manière intuitive, facilitant ainsi la recherche de données, la découverte de contenus et l'accès à des réponses à des questions complexes. Cet outil est particulièrement utile pour les chercheurs, les étudiants et toute personne cherchant à naviguer efficacement dans un océan d'informations en ligne.",
-      "category": "Moteurs de recherche IA et outils d'information",
-      "keywords": [
-        "moteur de recherche",
-        "intelligence artificielle",
-        "recherche contextuelle",
-        "traitement du langage naturel",
-        "réponses intelligentes",
-        "sans publicité",
-        "exploration d'informations",
-        "découverte de contenu",
-        "recherche académique",
-        "outil de recherche",
-        "navigation d'informations",
-        "réponses aux questions",
-        "efficacité de recherche",
-        "utilisation intuitive",
-        "analyse de données",
-        "recherche en ligne",
-        "accessibilité de l'information",
-        "optimisation de recherche",
-        "technologie ai",
-        "innovation en recherche"
-      ],
-      "price_euros_1_to_5": 2,
-      "added_at": "2025-08-31T19:44:40.087500Z",
-      "added_by": "user_1756669442",
-      "ai_enriched": true,
-      "ai_note": "Enrichi par IA avec recherche web",
-      "id": "c3bf74bb68722d41"
-    }
-  ],
+  "export_date": "2025-08-31T21:51:45.836043",
+  "tools": [],
   "comments": {
     "cf8df8b2f2965a60": [],
     "c3bf74bb68722d41": [
@@ -55,7 +20,7 @@
   },
   "external_links": {},
   "metadata": {
-    "total_tools": 1,
+    "total_tools": 0,
     "total_comments": 1,
     "total_links": 0
   }
