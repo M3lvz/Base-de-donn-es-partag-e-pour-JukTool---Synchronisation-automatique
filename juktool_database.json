@@ -1,42 +1,7 @@
 {
   "version": "1.0",
-  "export_date": "2025-08-31T22:04:01.222920",
-  "tools": [
-    {
-      "name": "youtube",
-      "link": "https://www.youtube.com/",
-      "description": "YouTube est une plateforme de partage de vidéos qui permet aux utilisateurs de télécharger, visionner et interagir avec du contenu vidéo. Fondée en 2005 et acquise par Google en 2006, YouTube offre une vaste bibliothèque de vidéos allant des clips musicaux aux tutoriels, en passant par des vlogs et des documentaires. Les utilisateurs peuvent créer des chaînes, s'abonner à d'autres créateurs, commenter et partager des vidéos. YouTube propose également des fonctionnalités telles que les livestreams, les vidéos en direct, et des options de monétisation pour les créateurs de contenu. En plus de son application mobile, YouTube est accessible sur divers appareils, y compris les téléviseurs intelligents et les consoles de jeux, ce qui en fait un outil polyvalent pour le divertissement et l'éducation.",
-      "category": "Plateforme de partage de vidéos et de streaming",
-      "keywords": [
-        "vidéo",
-        "streaming",
-        "tutoriels",
-        "vlogs",
-        "musique",
-        "création de contenu",
-        "monétisation",
-        "livestream",
-        "partage",
-        "réseaux sociaux",
-        "éducation",
-        "divertissement",
-        "chaînes youtube",
-        "commentaires",
-        "abonnements",
-        "téléchargement",
-        "vidéos en direct",
-        "contenu généré par les utilisateurs",
-        "publicité",
-        "algorithme de recommandation"
-      ],
-      "price_euros_1_to_5": 3,
-      "added_at": "2025-08-31T19:57:53.119231Z",
-      "added_by": "user_1756669787",
-      "ai_enriched": true,
-      "ai_note": "Enrichi par IA avec recherche web",
-      "id": "35ffaf2b82199d06"
-    }
-  ],
+  "export_date": "2025-08-31T22:04:02.753902",
+  "tools": [],
   "comments": {
     "cf8df8b2f2965a60": [],
     "c3bf74bb68722d41": [
@@ -55,7 +20,7 @@
   },
   "external_links": {},
   "metadata": {
-    "total_tools": 1,
+    "total_tools": 0,
     "total_comments": 1,
     "total_links": 0
   }
