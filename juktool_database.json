@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "export_date": "2025-08-31T20:49:45.664743",
+  "export_date": "2025-08-31T20:53:26.446044",
   "tools": [
     {
       "name": "chat gpt",
@@ -45,26 +45,13 @@
         "likes": 0,
         "liked_by": [],
         "user_ip": "unknown"
-      },
-      {
-        "id": "d60ef952",
-        "author": "kak ",
-        "content": "mec c'est tarpin styler",
-        "rating": 5,
-        "timestamp": "2025-08-31T20:49:39.438327",
-        "likes": 1,
-        "liked_by": [
-          "user_1756666160"
-        ],
-        "user_ip": "user_1756666160",
-        "added_by": "user_1756666160"
       }
     ]
   },
   "external_links": {},
   "metadata": {
     "total_tools": 1,
-    "total_comments": 2,
+    "total_comments": 1,
     "total_links": 0
   }
 }
