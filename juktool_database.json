@@ -1,42 +1,7 @@
 {
   "version": "1.0",
-  "export_date": "2025-08-31T22:24:49.927359",
-  "tools": [
-    {
-      "name": "perplexity",
-      "link": "https://www.perplexity.ai/",
-      "description": "Perplexity est une plateforme d'intelligence artificielle combinant recherche en ligne et génération de réponses contextuelles. Elle utilise des modèles avancés de traitement du langage naturel pour fournir des réponses précises, synthétiques et pertinentes aux requêtes des utilisateurs, en intégrant des données en temps réel provenant du web. Conçue comme une alternative ou un complément aux moteurs de recherche traditionnels, elle vise à améliorer l'expérience utilisateur en évitant l'information excessive et en proposant des synthèses claires et fiables.",
-      "category": "Outil de recherche intelligente, assistant virtuel, plateforme de synthèse d'informations, moteur de recherche basé sur l'IA",
-      "keywords": [
-        "recherche ia",
-        "assistant virtuel",
-        "recherche en ligne",
-        "génération de réponses",
-        "traitement du langage naturel",
-        "chatbot intelligent",
-        "synthèse d'informations",
-        "recherche contextuelle",
-        "outil de recherche avancée",
-        "intelligence artificielle conversationnelle",
-        "recherche sémantique",
-        "recherche d'informations",
-        "ia pour la recherche",
-        "outil de recherche intelligent",
-        "réponse automatique",
-        "recherche web",
-        "outil d'aide à la décision",
-        "recherche multimédia",
-        "recherche d'actualité",
-        "outil de recherche synthétique"
-      ],
-      "price_euros_1_to_5": 3,
-      "added_at": "2025-08-31T20:24:45.177924Z",
-      "added_by": "user_1756671844",
-      "ai_enriched": true,
-      "ai_note": "Enrichi par IA avec recherche web",
-      "id": "c3bf74bb68722d41"
-    }
-  ],
+  "export_date": "2025-08-31T22:25:45.230191",
+  "tools": [],
   "comments": {
     "cf8df8b2f2965a60": [],
     "c3bf74bb68722d41": [
@@ -55,7 +20,7 @@
   },
   "external_links": {},
   "metadata": {
-    "total_tools": 1,
+    "total_tools": 0,
     "total_comments": 1,
     "total_links": 0
   }
