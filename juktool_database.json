@@ -1,7 +1,43 @@
 {
   "version": "1.0",
-  "export_date": "2025-08-31T21:51:45.836043",
-  "tools": [],
+  "export_date": "2025-08-31T21:51:56.773275",
+  "tools": [
+    {
+      "name": "Perplexity AI",
+      "link": "https://perplexity.ai",
+      "description": "Outil de recherche IA qui fournit des réponses précises et contextuelles à des questions variées.",
+      "category": "recherche IA",
+      "keywords": [
+        "recherche",
+        "IA",
+        "réponses",
+        "contextuelles",
+        "information",
+        "outil",
+        "perplexity"
+      ],
+      "price_euros_1_to_5": 2,
+      "added_at": "2025-08-31T19:51:56.587676Z",
+      "id": "10d4510257dfbd70"
+    },
+    {
+      "name": "Chatgpt",
+      "link": "https://chatgpt.com/",
+      "description": "Chatbot IA capable de générer des réponses textuelles et d'interagir avec les utilisateurs.",
+      "category": "chatbot",
+      "keywords": [
+        "chatbot",
+        "intelligence artificielle",
+        "génération de texte",
+        "conversation",
+        "assistance",
+        "automatisation"
+      ],
+      "price_euros_1_to_5": 2,
+      "added_at": "2025-08-31T19:51:56.587676Z",
+      "id": "bd9897837d79958a"
+    }
+  ],
   "comments": {
     "cf8df8b2f2965a60": [],
     "c3bf74bb68722d41": [
@@ -20,7 +56,7 @@
   },
   "external_links": {},
   "metadata": {
-    "total_tools": 0,
+    "total_tools": 2,
     "total_comments": 1,
     "total_links": 0
   }
