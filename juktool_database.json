@@ -1,24 +1,7 @@
 {
   "version": "1.0",
-  "export_date": "2025-08-31T22:03:59.214720",
+  "export_date": "2025-08-31T22:04:01.222920",
   "tools": [
-    {
-      "name": "Chatgpt",
-      "link": "https://chatgpt.com/",
-      "description": "Chatbot IA capable de générer des réponses textuelles et d'interagir avec les utilisateurs.",
-      "category": "chatbot",
-      "keywords": [
-        "chatbot",
-        "intelligence artificielle",
-        "génération de texte",
-        "conversation",
-        "assistance",
-        "automatisation"
-      ],
-      "price_euros_1_to_5": 2,
-      "added_at": "2025-08-31T19:52:05.692327Z",
-      "id": "bd9897837d79958a"
-    },
     {
       "name": "youtube",
       "link": "https://www.youtube.com/",
@@ -72,7 +55,7 @@
   },
   "external_links": {},
   "metadata": {
-    "total_tools": 2,
+    "total_tools": 1,
     "total_comments": 1,
     "total_links": 0
   }
