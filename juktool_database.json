@@ -1,25 +1,7 @@
 {
   "version": "1.0",
-  "export_date": "2025-08-31T22:01:14.691003",
+  "export_date": "2025-08-31T22:03:59.214720",
   "tools": [
-    {
-      "name": "Perplexity AI",
-      "link": "https://perplexity.ai",
-      "description": "Outil de recherche IA qui fournit des réponses précises et contextuelles à des questions variées.",
-      "category": "recherche IA",
-      "keywords": [
-        "recherche",
-        "IA",
-        "réponses",
-        "contextuelles",
-        "information",
-        "outil",
-        "perplexity"
-      ],
-      "price_euros_1_to_5": 2,
-      "added_at": "2025-08-31T19:52:03.762299Z",
-      "id": "10d4510257dfbd70"
-    },
     {
       "name": "Chatgpt",
       "link": "https://chatgpt.com/",
@@ -90,7 +72,7 @@
   },
   "external_links": {},
   "metadata": {
-    "total_tools": 3,
+    "total_tools": 2,
     "total_comments": 1,
     "total_links": 0
   }
