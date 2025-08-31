@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "export_date": "2025-08-31T20:49:39.569879",
+  "export_date": "2025-08-31T20:49:45.664743",
   "tools": [
     {
       "name": "chat gpt",
@@ -52,8 +52,10 @@
         "content": "mec c'est tarpin styler",
         "rating": 5,
         "timestamp": "2025-08-31T20:49:39.438327",
-        "likes": 0,
-        "liked_by": [],
+        "likes": 1,
+        "liked_by": [
+          "user_1756666160"
+        ],
         "user_ip": "user_1756666160",
         "added_by": "user_1756666160"
       }
