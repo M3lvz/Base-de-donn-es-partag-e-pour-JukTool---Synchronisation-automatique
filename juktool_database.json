@@ -1,42 +1,7 @@
 {
   "version": "1.0",
-  "export_date": "2025-08-31T22:07:23.334576",
-  "tools": [
-    {
-      "name": "perplexity",
-      "link": "https://www.perplexity.ai/",
-      "description": "Perplexity est une plateforme d'intelligence artificielle combinant des modèles de langage avancés et des technologies de recherche pour fournir des réponses précises, contextualisées et synthétiques aux requêtes des utilisateurs. Elle agit comme un assistant intelligent capable d'analyser des questions complexes, de rechercher des informations pertinentes sur le web, et de générer des réponses compréhensives, facilitant ainsi la recherche d'informations sans passer par des résultats de recherche traditionnels. Idéale pour la recherche d'informations, la synthèse de données, l'aide à la rédaction, et le support à la prise de décision, Perplexity se positionne comme une alternative innovante aux moteurs de recherche classiques, intégrant la compréhension contextuelle et la génération de contenu en langage naturel.",
-      "category": "Outil de recherche et d'assistance par intelligence artificielle",
-      "keywords": [
-        "ia recherche",
-        "assistant virtuel",
-        "recherche intelligente",
-        "génération de texte",
-        "question-réponse",
-        "synthèse d'informations",
-        "chatbot ia",
-        "recherche sémantique",
-        "outil de recherche ai",
-        "analyse de données",
-        "compréhension du langage naturel",
-        "recherche contextuelle",
-        "outil d'aide à la décision",
-        "recherche d'informations",
-        "intelligence artificielle conversationnelle",
-        "recherche web avancée",
-        "outil de synthèse",
-        "recherche d'expertise",
-        "outil de brainstorming",
-        "recherche multi-domaines"
-      ],
-      "price_euros_1_to_5": 3,
-      "added_at": "2025-08-31T20:07:20.117021Z",
-      "added_by": "user_1756670802",
-      "ai_enriched": true,
-      "ai_note": "Enrichi par IA avec recherche web",
-      "id": "c3bf74bb68722d41"
-    }
-  ],
+  "export_date": "2025-08-31T22:24:42.465566",
+  "tools": [],
   "comments": {
     "cf8df8b2f2965a60": [],
     "c3bf74bb68722d41": [
@@ -55,7 +20,7 @@
   },
   "external_links": {},
   "metadata": {
-    "total_tools": 1,
+    "total_tools": 0,
     "total_comments": 1,
     "total_links": 0
   }
