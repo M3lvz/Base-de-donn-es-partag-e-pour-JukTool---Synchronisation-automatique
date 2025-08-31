@@ -1,7 +1,21 @@
 {
   "version": "1.0",
-  "export_date": "2025-08-31T22:25:45.230191",
-  "tools": [],
+  "export_date": "2025-08-31T22:25:47.799848",
+  "tools": [
+    {
+      "name": "perplexity",
+      "link": "https://www.perplexity.ai/",
+      "description": "",
+      "category": "",
+      "keywords": [],
+      "price_euros_1_to_5": 3,
+      "added_at": "2025-08-31T20:25:47.322291Z",
+      "added_by": "user_1756671844",
+      "ai_enriched": false,
+      "ai_note": "Erreur IA: Error code: 400 - {'error': {'message': \"Unsupported value: 'temperature' does not support 0.2 with this model. Only the default (1) value is supported.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}",
+      "id": "c3bf74bb68722d41"
+    }
+  ],
   "comments": {
     "cf8df8b2f2965a60": [],
     "c3bf74bb68722d41": [
@@ -20,7 +34,7 @@
   },
   "external_links": {},
   "metadata": {
-    "total_tools": 0,
+    "total_tools": 1,
     "total_comments": 1,
     "total_links": 0
   }
