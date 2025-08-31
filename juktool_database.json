@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "export_date": "2025-08-31T21:51:07.229217",
+  "export_date": "2025-08-31T21:51:09.448421",
   "tools": [
     {
       "name": "chat gpt",
@@ -81,24 +81,13 @@
         "liked_by": [],
         "user_ip": "user_1756669442",
         "added_by": "user_1756669442"
-      },
-      {
-        "id": "1b3c1251",
-        "author": "eeze",
-        "content": "qsdqsd",
-        "rating": 3,
-        "timestamp": "2025-08-31T21:50:56.044331",
-        "likes": 0,
-        "liked_by": [],
-        "user_ip": "user_1756669787",
-        "added_by": "user_1756669787"
       }
     ]
   },
   "external_links": {},
   "metadata": {
     "total_tools": 2,
-    "total_comments": 2,
+    "total_comments": 1,
     "total_links": 0
   }
 }
