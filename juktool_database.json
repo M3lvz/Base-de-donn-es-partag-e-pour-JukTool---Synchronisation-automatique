@@ -1,42 +1,7 @@
 {
   "version": "1.0",
-  "export_date": "2025-08-31T22:05:31.051279",
-  "tools": [
-    {
-      "name": "perplexity",
-      "link": "https://www.perplexity.ai/",
-      "description": "Perplexity est un moteur de recherche alimenté par l'intelligence artificielle qui combine la recherche web en temps réel avec une capacité de synthèse et de réponse contextuelle. Il permet aux utilisateurs d'obtenir des réponses précises et détaillées à leurs questions en intégrant des informations provenant du web, tout en proposant une interface intuitive pour la recherche d'informations, la vérification de faits, la génération de résumés, et l'exploration de sujets complexes. L'outil se distingue par sa capacité à fournir des réponses contextualisées, facilitant la prise de décision, la recherche académique, la veille informationnelle et le support à la rédaction ou à la réflexion.",
-      "category": "Outil de recherche et synthèse d'informations basé sur l'intelligence artificielle",
-      "keywords": [
-        "recherche ia",
-        "assistant virtuel",
-        "synthèse d'informations",
-        "recherche web",
-        "question-réponse",
-        "veille informationnelle",
-        "résumé automatique",
-        "fact-checking",
-        "exploration de sujets",
-        "recherche contextuelle",
-        "outil d'aide à la décision",
-        "génération de contenu",
-        "recherche intelligente",
-        "recherche en ligne",
-        "outil de synthèse",
-        "recherche d'informations",
-        "ia conversationnelle",
-        "outil de veille",
-        "analyse de données",
-        "support à la rédaction"
-      ],
-      "price_euros_1_to_5": 3,
-      "added_at": "2025-08-31T20:05:27.874284Z",
-      "added_by": "user_1756670666",
-      "ai_enriched": true,
-      "ai_note": "Enrichi par IA avec recherche web",
-      "id": "c3bf74bb68722d41"
-    }
-  ],
+  "export_date": "2025-08-31T22:07:15.434696",
+  "tools": [],
   "comments": {
     "cf8df8b2f2965a60": [],
     "c3bf74bb68722d41": [
@@ -55,7 +20,7 @@
   },
   "external_links": {},
   "metadata": {
-    "total_tools": 1,
+    "total_tools": 0,
     "total_comments": 1,
     "total_links": 0
   }
