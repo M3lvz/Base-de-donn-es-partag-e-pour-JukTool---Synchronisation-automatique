@@ -1,38 +1,7 @@
 {
   "version": "1.0",
-  "export_date": "2025-08-31T21:51:09.448421",
+  "export_date": "2025-08-31T21:51:43.918279",
   "tools": [
-    {
-      "name": "chat gpt",
-      "link": "https://chatgpt.com/",
-      "description": "ChatGPT est un modèle de langage développé par OpenAI, conçu pour interagir avec les utilisateurs de manière conversationnelle. Il permet de générer du texte, de répondre à des questions, de fournir des informations, et d'assister dans diverses tâches telles que la rédaction, la traduction, et le brainstorming. Grâce à son apprentissage profond, ChatGPT peut comprendre et produire du texte dans un large éventail de contextes, ce qui en fait un outil polyvalent pour les professionnels, les étudiants et toute personne cherchant à améliorer sa productivité ou à obtenir des réponses rapides et précises.",
-      "category": "Intelligence Artificielle, Outils de Productivité, Chatbots",
-      "keywords": [
-        "chatbot",
-        "génération de texte",
-        "assistant virtuel",
-        "ia conversationnelle",
-        "rédaction",
-        "traduction",
-        "brainstorming",
-        "tutorat",
-        "analyse de données",
-        "planification",
-        "service client",
-        "éducation",
-        "créativité",
-        "automatisation",
-        "recherche d'informations",
-        "développement personnel",
-        "productivité",
-        "communication",
-        "innovation",
-        "support technique"
-      ],
-      "price_euros_1_to_5": 3,
-      "added_at": "2025-08-31T18:06:01.242085Z",
-      "id": "cf8df8b2f2965a60"
-    },
     {
       "name": "Perplexity",
       "link": "https://www.perplexity.ai/",
@@ -86,7 +55,7 @@
   },
   "external_links": {},
   "metadata": {
-    "total_tools": 2,
+    "total_tools": 1,
     "total_comments": 1,
     "total_links": 0
   }
