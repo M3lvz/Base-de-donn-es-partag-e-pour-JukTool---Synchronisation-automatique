@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "export_date": "2025-08-31T21:50:48.550164",
+  "export_date": "2025-08-31T21:50:49.407268",
   "tools": [
     {
       "name": "chat gpt",
@@ -77,10 +77,8 @@
         "content": "cc",
         "rating": 3,
         "timestamp": "2025-08-31T21:49:39.027221",
-        "likes": 1,
-        "liked_by": [
-          "user_1756669787"
-        ],
+        "likes": 0,
+        "liked_by": [],
         "user_ip": "user_1756669442",
         "added_by": "user_1756669442"
       }
