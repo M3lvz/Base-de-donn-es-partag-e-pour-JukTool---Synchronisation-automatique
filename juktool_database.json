@@ -1,7 +1,105 @@
 {
   "version": "1.0",
-  "export_date": "2025-09-01T13:30:08.281820",
-  "tools": [],
+  "export_date": "2025-09-01T13:30:13.316076",
+  "tools": [
+    {
+      "name": "Flow (Veo3)",
+      "link": "https://labs.google/flow/about",
+      "description": "Flow (Veo3) est un outil innovant développé par Google Labs, conçu pour faciliter la création et la gestion de flux de travail automatisés. Il permet aux utilisateurs de concevoir des processus personnalisés en intégrant divers services et applications, optimisant ainsi la productivité et l'efficacité. Grâce à une interface intuitive, Flow (Veo3) offre des fonctionnalités avancées telles que la gestion des tâches, la collaboration en temps réel, et l'analyse des performances, permettant aux équipes de mieux coordonner leurs efforts et d'atteindre leurs objectifs plus rapidement. Cet outil est idéal pour les professionnels souhaitant automatiser des tâches répétitives, améliorer la communication au sein de leur équipe et suivre l'avancement de leurs projets de manière transparente.",
+      "category": "Outils de productivité et d'automatisation",
+      "keywords": [
+        "automatisation",
+        "flux de travail",
+        "gestion de projet",
+        "productivité",
+        "collaboration",
+        "intégration d'applications",
+        "analyse de données",
+        "optimisation des processus",
+        "interface utilisateur",
+        "tâches répétitives",
+        "gestion des tâches",
+        "suivi de projet",
+        "efficacité",
+        "travail d'équipe",
+        "outils de productivité",
+        "innovation",
+        "technologie",
+        "google labs",
+        "veo3"
+      ],
+      "price_euros_1_to_5": 2,
+      "added_at": "2025-08-30T20:33:38.962386Z",
+      "user_ip": "user_1756726213",
+      "added_by": "user_1756726213",
+      "id": "608488ea1fe2e723"
+    },
+    {
+      "name": "Perplexity",
+      "link": "https://www.perplexity.ai/",
+      "description": "Perplexity est un outil d'intelligence artificielle conçu pour faciliter la recherche d'informations et la génération de contenu. Il utilise des algorithmes avancés pour analyser des données et fournir des réponses précises et contextuelles aux requêtes des utilisateurs. Que ce soit pour la recherche académique, la création de contenu, ou l'assistance dans des tâches variées, Perplexity se positionne comme un assistant virtuel polyvalent. Son interface conviviale permet aux utilisateurs de poser des questions en langage naturel et d'obtenir des résultats instantanés, rendant ainsi l'accès à l'information plus rapide et efficace.",
+      "category": "Outils d'intelligence artificielle pour la recherche et la génération de contenu",
+      "keywords": [
+        "ia",
+        "recherche d'informations",
+        "génération de contenu",
+        "assistant virtuel",
+        "analyse de données",
+        "réponses contextuelles",
+        "langage naturel",
+        "outil de productivité",
+        "éducation",
+        "tutorat",
+        "création de contenu",
+        "support client",
+        "automatisation",
+        "innovation technologique",
+        "accessibilité",
+        "efficacité",
+        "optimisation des tâches",
+        "collaboration",
+        "stratégie de contenu"
+      ],
+      "price_euros_1_to_5": 3,
+      "added_at": "2025-08-30T20:36:34.913070Z",
+      "user_ip": "user_1756726213",
+      "added_by": "user_1756726213",
+      "id": "c3bf74bb68722d41"
+    },
+    {
+      "name": "ChatGpt",
+      "link": "https://chatgpt.com/",
+      "description": "ChatGPT est un modèle de langage développé par OpenAI, conçu pour interagir de manière conversationnelle. Cet outil d'intelligence artificielle permet aux utilisateurs de poser des questions, d'obtenir des réponses précises, de générer du contenu créatif, et d'améliorer leur productivité. Que ce soit pour la rédaction d'articles, la traduction de textes, le tutorat, ou même le brainstorming d'idées, ChatGPT s'adapte à divers besoins. Accessible gratuitement et sans inscription, il offre une interface conviviale pour une utilisation rapide et efficace. Grâce à sa capacité à comprendre et à générer du texte en langage naturel, ChatGPT est un assistant virtuel polyvalent qui peut être utilisé dans de nombreux domaines, allant de l'éducation au marketing.",
+      "category": "Intelligence Artificielle, Outils de Productivité, Chatbots",
+      "keywords": [
+        "chatbot",
+        "génération de texte",
+        "assistant virtuel",
+        "tutorat",
+        "rédaction",
+        "traduction",
+        "brainstorming",
+        "planification",
+        "service client",
+        "éducation",
+        "créativité",
+        "automatisation",
+        "recherche",
+        "analyse de données",
+        "conseils",
+        "développement personnel",
+        "programmation",
+        "communication",
+        "productivité",
+        "ia"
+      ],
+      "price_euros_1_to_5": 3,
+      "added_at": "2025-08-30T20:37:25.239416Z",
+      "user_ip": "user_1756726213",
+      "added_by": "user_1756726213",
+      "id": "bd9897837d79958a"
+    }
+  ],
   "comments": {
     "cf8df8b2f2965a60": [],
     "c3bf74bb68722d41": [
@@ -46,7 +144,7 @@
     "bd9897837d79958a": []
   },
   "metadata": {
-    "total_tools": 0,
+    "total_tools": 3,
     "total_comments": 3,
     "total_links": 0
   }
