@@ -1,41 +1,7 @@
 {
   "version": "1.0",
-  "export_date": "2025-09-01T12:26:27.930288",
+  "export_date": "2025-09-01T12:28:57.012838",
   "tools": [
-    {
-      "name": "Chat gpt",
-      "link": "https://chatgpt.com/",
-      "description": "ChatGPT ist ein fortschrittliches KI-basierter Sprachgenerator, entwickelt von OpenAI, das in der Lage ist, menschenähnliche Texte zu verfassen. Es kann für vielfältige Anwendungen genutzt werden, darunter automatisierte Kundenbetreuung, Textgenerierung, kreative Schreibassistenz, Übersetzungen, Tutorings, Brainstorming, Content-Erstellung, Programmierhilfe, Analyse von Daten und vieles mehr. Das Tool unterstützt Nutzer dabei, effizient und qualitativ hochwertige Inhalte zu erstellen, komplexe Fragen zu beantworten und interaktive Dialoge zu führen. Es ist benutzerfreundlich, vielseitig einsetzbar und kann in verschiedenen Branchen integriert werden, um Arbeitsprozesse zu optimieren und Innovationen voranzutreiben.",
-      "category": "Künstliche Intelligenz / Sprach-KI / Chatbot-Plattform",
-      "keywords": [
-        "ki-chatbot",
-        "textgenerierung",
-        "künstliche intelligenz",
-        "virtueller assistent",
-        "automatisierte kundenbetreuung",
-        "content-erstellung",
-        "sprachverarbeitung",
-        "kreatives schreiben",
-        "übersetzungs-tool",
-        "tutoringsystem",
-        "brainstorming-assistenz",
-        "datenanalyse",
-        "programmierhilfe",
-        "chatbot-integration",
-        "ki-basierte kommunikation",
-        "interaktiver assistent",
-        "automatisierung",
-        "ki-tools",
-        "dialogsystem",
-        "ai writing assistant"
-      ],
-      "price_euros_1_to_5": 2,
-      "added_at": "2025-09-01T10:24:48.088353Z",
-      "added_by": "user_1756722288",
-      "ai_enriched": true,
-      "ai_note": "Enrichi par IA avec recherche web",
-      "id": "cf8df8b2f2965a60"
-    },
     {
       "name": "Youtube",
       "link": "youtube.com",
@@ -89,7 +55,7 @@
   },
   "external_links": {},
   "metadata": {
-    "total_tools": 2,
+    "total_tools": 1,
     "total_comments": 1,
     "total_links": 0
   }
