@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "export_date": "2025-09-01T14:38:22.656220",
+  "export_date": "2025-09-01T14:39:27.189088",
   "tools": [
     {
       "name": "chatgpt",
@@ -35,6 +35,40 @@
       "ai_enriched": true,
       "ai_note": "Enrichi par IA avec recherche web",
       "id": "5eb48ac1d1614de0"
+    },
+    {
+      "name": "youtube",
+      "link": "youtube.com",
+      "description": "YouTube est une plateforme de partage de vidéos en ligne permettant aux utilisateurs de regarder, uploader, et partager du contenu vidéo dans divers formats. Elle offre une vaste bibliothèque de vidéos allant de clips musicaux, tutoriels, vlogs, films, à des contenus éducatifs et culturels. La plateforme facilite la découverte de tendances, la création de communautés, la monétisation de contenus pour les créateurs, et l'intégration avec d'autres services Google. Avec YouTube Music, elle propose également une plateforme de streaming musical avec un catalogue étendu de chansons, playlists et vidéos musicales. YouTube est un outil incontournable pour le divertissement, la communication, le marketing, la formation, et la création de contenu audiovisuel à l’échelle mondiale.",
+      "category": "Plateforme de partage et de streaming vidéo et audio",
+      "keywords": [
+        "plateforme vidéo",
+        "partage de vidéos",
+        "streaming musical",
+        "création de contenu",
+        "tutoriels vidéo",
+        "marketing vidéo",
+        "monétisation youtube",
+        "vidéos éducatives",
+        "vlogs",
+        "clips musicaux",
+        "live streaming",
+        "communauté en ligne",
+        "recherche vidéo",
+        "algorithme de recommandation",
+        "contenu viral",
+        "youtube music",
+        "gestion de chaîne",
+        "analyse de performance",
+        "monétisation créateurs",
+        "contenu viral"
+      ],
+      "price_euros_1_to_5": 3,
+      "added_at": "2025-09-01T12:39:23.448197Z",
+      "added_by": "user_1756726213",
+      "ai_enriched": true,
+      "ai_note": "Enrichi par IA avec recherche web",
+      "id": "3ce825d9bcd27999"
     }
   ],
   "comments": {
@@ -81,7 +115,7 @@
     "bd9897837d79958a": []
   },
   "metadata": {
-    "total_tools": 1,
+    "total_tools": 2,
     "total_comments": 3,
     "total_links": 0
   }
