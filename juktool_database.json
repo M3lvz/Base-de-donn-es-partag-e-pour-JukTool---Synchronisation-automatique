@@ -1,7 +1,42 @@
 {
   "version": "1.0",
-  "export_date": "2025-09-01T13:31:14.812892",
-  "tools": [],
+  "export_date": "2025-09-01T14:38:22.656220",
+  "tools": [
+    {
+      "name": "chatgpt",
+      "link": "chatgpt.com",
+      "description": "ChatGPT est un assistant conversationnel basé sur l'intelligence artificielle développé par OpenAI. Il utilise des modèles avancés de traitement du langage naturel pour comprendre et générer du texte en réponse à une large gamme de requêtes. Capable de dialoguer de manière fluide, il peut aider à la rédaction, la traduction, la recherche d'informations, le brainstorming, la planification, et fournir un support client automatisé. Compatible avec plusieurs langues, il s'intègre dans divers environnements via des applications web, mobiles et desktop, offrant une interaction en temps réel et une personnalisation via la création de versions sur mesure (GPTs). Son utilisation est adaptée aussi bien pour les particuliers, les étudiants, que pour les entreprises souhaitant automatiser ou enrichir leurs processus de communication et de création de contenu.",
+      "category": "Outils d'intelligence artificielle / Chatbots et assistants conversationnels",
+      "keywords": [
+        "assistant virtuel",
+        "chatbot ia",
+        "génération de texte",
+        "traitement du langage naturel",
+        "support client automatisé",
+        "rédaction automatique",
+        "traduction linguistique",
+        "brainstorming créatif",
+        "planification stratégique",
+        "formation en ligne",
+        "tutorat numérique",
+        "analyse de données textuelles",
+        "création de contenu",
+        "applications ia",
+        "intelligence artificielle conversationnelle",
+        "outil de productivité",
+        "recherche d'informations",
+        "personnalisation ia",
+        "intégration api",
+        "automatisation des tâches"
+      ],
+      "price_euros_1_to_5": 3,
+      "added_at": "2025-09-01T12:38:16.331729Z",
+      "added_by": "user_1756726213",
+      "ai_enriched": true,
+      "ai_note": "Enrichi par IA avec recherche web",
+      "id": "5eb48ac1d1614de0"
+    }
+  ],
   "comments": {
     "cf8df8b2f2965a60": [],
     "c3bf74bb68722d41": [
@@ -46,7 +81,7 @@
     "bd9897837d79958a": []
   },
   "metadata": {
-    "total_tools": 0,
+    "total_tools": 1,
     "total_comments": 3,
     "total_links": 0
   }
