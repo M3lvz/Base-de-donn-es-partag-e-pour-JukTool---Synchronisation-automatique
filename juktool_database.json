@@ -1,41 +1,7 @@
 {
   "version": "1.0",
-  "export_date": "2025-09-01T12:41:24.011071",
+  "export_date": "2025-09-01T13:24:50.146161",
   "tools": [
-    {
-      "name": "Youtube",
-      "link": "youtube.com",
-      "description": "YouTube est une plateforme de partage de vidéos en ligne permettant aux utilisateurs de regarder, uploader, commenter, et partager du contenu vidéo. Elle sert également de plateforme de création de contenu pour les créateurs, offrant des outils de monétisation, de diffusion en direct, et d'analyse des performances. YouTube est un espace essentiel pour le divertissement, l'éducation, le marketing, la formation, et la communication, avec une audience mondiale et une variété infinie de contenus dans tous les domaines imaginables.",
-      "category": "Plateforme de partage et de diffusion de vidéos / Média numérique / Réseaux sociaux",
-      "keywords": [
-        "vidéo en ligne",
-        "plateforme de partage vidéo",
-        "création de contenu",
-        "monétisation youtube",
-        "diffusion en direct",
-        "marketing vidéo",
-        "tutoriels vidéo",
-        "formation en ligne",
-        "vidéo éducative",
-        "influenceurs",
-        "stratégie de contenu",
-        "analyse de performance",
-        "seo youtube",
-        "publicité vidéo",
-        "engagement communautaire",
-        "monétisation de chaîne",
-        "gestion de contenu",
-        "vidéo virale",
-        "stratégie de croissance",
-        "créateurs de contenu"
-      ],
-      "price_euros_1_to_5": 3,
-      "added_at": "2025-09-01T10:26:21.557758Z",
-      "added_by": "user_1756722288",
-      "ai_enriched": true,
-      "ai_note": "Enrichi par IA avec recherche web",
-      "id": "3ce825d9bcd27999"
-    },
     {
       "name": "chatgpt",
       "link": "chatgpt.com",
@@ -104,7 +70,7 @@
   },
   "external_links": {},
   "metadata": {
-    "total_tools": 2,
+    "total_tools": 1,
     "total_comments": 2,
     "total_links": 0
   }
