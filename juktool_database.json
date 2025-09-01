@@ -1,41 +1,7 @@
 {
   "version": "1.0",
-  "export_date": "2025-09-01T13:30:43.776386",
-  "tools": [
-    {
-      "name": "ChatGpt",
-      "link": "https://chatgpt.com/",
-      "description": "ChatGPT est un modèle de langage développé par OpenAI, conçu pour interagir de manière conversationnelle. Cet outil d'intelligence artificielle permet aux utilisateurs de poser des questions, d'obtenir des réponses précises, de générer du contenu créatif, et d'améliorer leur productivité. Que ce soit pour la rédaction d'articles, la traduction de textes, le tutorat, ou même le brainstorming d'idées, ChatGPT s'adapte à divers besoins. Accessible gratuitement et sans inscription, il offre une interface conviviale pour une utilisation rapide et efficace. Grâce à sa capacité à comprendre et à générer du texte en langage naturel, ChatGPT est un assistant virtuel polyvalent qui peut être utilisé dans de nombreux domaines, allant de l'éducation au marketing.",
-      "category": "Intelligence Artificielle, Outils de Productivité, Chatbots",
-      "keywords": [
-        "chatbot",
-        "génération de texte",
-        "assistant virtuel",
-        "tutorat",
-        "rédaction",
-        "traduction",
-        "brainstorming",
-        "planification",
-        "service client",
-        "éducation",
-        "créativité",
-        "automatisation",
-        "recherche",
-        "analyse de données",
-        "conseils",
-        "développement personnel",
-        "programmation",
-        "communication",
-        "productivité",
-        "ia"
-      ],
-      "price_euros_1_to_5": 3,
-      "added_at": "2025-08-30T20:37:25.239416Z",
-      "user_ip": "user_1756726213",
-      "added_by": "user_1756726213",
-      "id": "bd9897837d79958a"
-    }
-  ],
+  "export_date": "2025-09-01T13:30:46.169928",
+  "tools": [],
   "comments": {
     "cf8df8b2f2965a60": [],
     "c3bf74bb68722d41": [
@@ -80,7 +46,7 @@
     "bd9897837d79958a": []
   },
   "metadata": {
-    "total_tools": 1,
+    "total_tools": 0,
     "total_comments": 3,
     "total_links": 0
   }
