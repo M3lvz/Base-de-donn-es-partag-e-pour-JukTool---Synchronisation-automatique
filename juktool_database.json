@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "export_date": "2025-09-01T14:41:01.677842",
+  "export_date": "2025-09-01T14:41:04.717865",
   "tools": [
     {
       "name": "chatgpt",
@@ -117,8 +117,10 @@
         "content": "trop cool",
         "rating": 2,
         "timestamp": "2025-09-01T14:41:01.476227",
-        "likes": 0,
-        "liked_by": [],
+        "likes": 1,
+        "liked_by": [
+          "user_1756726213"
+        ],
         "user_ip": "user_1756726213",
         "added_by": "user_1756726213"
       }
