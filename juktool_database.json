@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "export_date": "2025-09-01T12:28:57.012838",
+  "export_date": "2025-09-01T12:29:18.028615",
   "tools": [
     {
       "name": "Youtube",
@@ -35,6 +35,40 @@
       "ai_enriched": true,
       "ai_note": "Enrichi par IA avec recherche web",
       "id": "3ce825d9bcd27999"
+    },
+    {
+      "name": "chatgpt",
+      "link": "chatgpt.com",
+      "description": "ChatGPT est un assistant conversationnel basé sur l'intelligence artificielle développé par OpenAI. Il utilise des modèles avancés de traitement du langage naturel pour générer des réponses cohérentes, pertinentes et contextuelles dans une variété de langues. Cet outil permet d'automatiser la communication, d'assister dans la rédaction, la traduction, la recherche d'informations, le brainstorming, la planification, et offre également des fonctionnalités de dialogue interactif, d'apprentissage personnalisé et d'intégration dans diverses plateformes. Il est adapté aux étudiants, professionnels, entreprises, éducateurs et développeurs souhaitant intégrer une IA conversationnelle performante dans leurs flux de travail ou projets éducatifs.",
+      "category": "Intelligence Artificielle / Chatbots et assistants virtuels",
+      "keywords": [
+        "assistant virtuel",
+        "chatbot",
+        "génération de texte",
+        "traitement du langage naturel",
+        "ia conversationnelle",
+        "automatisation",
+        "rédaction assistée",
+        "traduction automatique",
+        "brainstorming",
+        "support client",
+        "formation en ligne",
+        "éducation numérique",
+        "intégration api",
+        "analyse de données textuelles",
+        "tutorat virtuel",
+        "planification stratégique",
+        "recherche d'informations",
+        "voice assistant",
+        "multilingue",
+        "intelligence artificielle"
+      ],
+      "price_euros_1_to_5": 3,
+      "added_at": "2025-09-01T10:29:13.266003Z",
+      "added_by": "user_1756722553",
+      "ai_enriched": true,
+      "ai_note": "Enrichi par IA avec recherche web",
+      "id": "5eb48ac1d1614de0"
     }
   ],
   "comments": {
@@ -55,7 +89,7 @@
   },
   "external_links": {},
   "metadata": {
-    "total_tools": 1,
+    "total_tools": 2,
     "total_comments": 1,
     "total_links": 0
   }
